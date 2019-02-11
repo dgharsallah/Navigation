@@ -17,7 +17,7 @@ We trained our model for 1000 episodes, 1000 for the number of timesteps per epi
 
 ### Neural Network
 The neural network defined in model.py has 3 fully connected layers.
-The dimension of the first is state_size * 128, the second is 128 * 128 and the third 128 * action_size.
+The dimension of the first is state_size * 128, the second is 128 * 128 using Relu activation function for both and the third 128 * action_size.
 
 
 ## Plot of rewards
