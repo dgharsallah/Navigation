@@ -22,7 +22,7 @@ The task is episodic, and we will consider the environment to be solved when our
 
 ### Getting Started
 
-1. Clone the repo `git clone https://github.com/dhaw92/Navigation`
+1. Clone the repo `git clone https://github.com/dgharsallah/Navigation`
 2. Create a conda environment and install the required packages
 ```bash
 conda create --name navigation python=3.6
